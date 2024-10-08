@@ -1,3 +1,8 @@
+
+
+// compound interest
+
+
 #include<stdio.h>
 int main() {
 	float c,p,r,n,t,x,y;
