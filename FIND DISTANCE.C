@@ -1,3 +1,6 @@
+//Find distance
+
+
 #include<stdio.h>
 int main() {
 	float s,u,t,a;
