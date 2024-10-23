@@ -1,4 +1,4 @@
-//length of string
+
 #include<stdio.h>
 int main() {
 	char s[50],l,i;
