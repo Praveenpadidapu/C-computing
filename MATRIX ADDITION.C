@@ -1,4 +1,4 @@
-//Matrix addition
+
 
 #include<stdio.h>
 int main() {
