@@ -1,4 +1,3 @@
-// squareroot
 
 
 #include<stdio.h>
